@@ -29,14 +29,13 @@ In this tutorial, we provide two notebooks:
 
 ## Citation
 If you use the code or tutorial in your research, please cite as follows:
-* For the code or tutorial sections on ***Introduction to Lovász Bound***, ***Transductive RW***, please use the following citation:
-    ```bibtex
+```bibtex
     @article{luan2024heterophily,
       title={Are Heterophily-Specific GNNs and Homophily Metrics Really Effective? Evaluation Pitfalls and New Benchmarks},
       author={Luan, Sitao and Lu, Qincheng and Hua, Chenqing and Wang, Xinyu and Zhu, Jiaqi and Chang, Xiao-Wen and Wolf, Guy and Tang, Jian},
       journal={arXiv preprint arXiv:2409.05755},
       year={2024}
     }
-    ```
+```
 
 
