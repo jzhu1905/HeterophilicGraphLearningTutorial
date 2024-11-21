@@ -1,0 +1,6 @@
+[submodule "Heterophilic_Benchmarks"]
+	path = Heterophilic_Benchmarks
+	url = https://github.com/wzzlcss/Heterophilic_Benchmarks.git
+[submodule "ACM-GNN"]
+	path = ACM-GNN
+	url = https://github.com/SitaoLuan/ACM-GNN.git
