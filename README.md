@@ -23,8 +23,8 @@ In this tutorial, we provide two notebooks:
 
 | Title                                     | Link to Colab                                                                                                                                                                                                                        |
 |-------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| *Graph Models on Real World Datasets*     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jzhu1905/HeterophilicGraphLearningTutorial/blob/main/01_Part_I_Graph_Models_on_Real_World_Dataset.ipynb)       |
-| *Heterophily Metrics on Synthetic Graphs* | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jzhu1905/HeterophilicGraphLearningTutorial/blob/main/02_Part_II_Heterophily_Metrics_on_Synthetic_Graphs.ipynb) |
+| *Heterophilic-specific Models on Real World Datasets*     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jzhu1905/HeterophilicGraphLearningTutorial/blob/main/01_Part_I_Graph_Models_on_Real_World_Dataset.ipynb)       |
+| *Evaluation of Metrics on Synthetic Graphs* | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jzhu1905/HeterophilicGraphLearningTutorial/blob/main/02_Part_II_Heterophily_Metrics_on_Synthetic_Graphs.ipynb) |
 
 
 ## Citation
@@ -34,6 +34,15 @@ If you use the code or tutorial in your research, please cite as follows:
       title={Are Heterophily-Specific GNNs and Homophily Metrics Really Effective? Evaluation Pitfalls and New Benchmarks},
       author={Luan, Sitao and Lu, Qincheng and Hua, Chenqing and Wang, Xinyu and Zhu, Jiaqi and Chang, Xiao-Wen and Wolf, Guy and Tang, Jian},
       journal={arXiv preprint arXiv:2409.05755},
+      year={2024}
+    }
+```
+or
+```bibtex
+    @article{luan2024heterophilic,
+      title={The heterophilic graph learning handbook: Benchmarks, models, theoretical analysis, applications and challenges},
+      author={Luan, Sitao and Hua, Chenqing and Lu, Qincheng and Ma, Liheng and Wu, Lirong and Wang, Xinyu and Xu, Minkai and Chang, Xiao-Wen and Precup, Doina and Ying, Rex and others},
+      journal={arXiv preprint arXiv:2407.09618},
       year={2024}
     }
 ```
